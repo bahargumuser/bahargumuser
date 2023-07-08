@@ -5,8 +5,6 @@
 
 🌱 I’m currently learning **Frameworks**
 
-📝 I regularly write articles on [camduvar](https://www.camduvar.net/{:target="_blank"})
-
 💬 Ask me about **JavaScript, React, Node.js**
 
 📫 How to reach me **bahargumuser@gmail.com**
