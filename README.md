@@ -14,7 +14,7 @@
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
-
+<div align="center">
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
@@ -40,3 +40,4 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahargumuser&show_icons=true&locale=en&layout=compact" alt="bahargumuser" />
 </p>
+</div>
