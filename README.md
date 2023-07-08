@@ -2,7 +2,14 @@
 
 **`Junior Software Developer`**
 
-### Languages and Tools
+  <div style="display: flex; align-items: center;">
+  <h2 style="text align: center">Languages and Tools<h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      </div>
 
 <!--
 **bahargumuser/bahargumuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
