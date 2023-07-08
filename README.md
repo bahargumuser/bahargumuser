@@ -3,7 +3,7 @@
 <p align="center"
 🌱 I’m currently learning **Frameworks**
 
-📝 I regularly write articles on [https://www.camduvar.net/{:target="\_blank"}](camduvar)
+📝 I regularly write articles on [https://www.camduvar.net/](https://www.camduvar.net/{:target="_blank"})
 
 💬 Ask me about **JavaScript, React, Node.js**
 
