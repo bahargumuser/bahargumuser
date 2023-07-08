@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bahar</h1>
 <h3 align="center">I have designed my life around the pursuit of new knowledge. Researching, discovering, and problem-solving come naturally to me. I enjoy coding and find happiness in continuously improving myself. If my growth has caught your interest, please don't hesitate to reach out to me.</h3>
 <p align="center"
--🌱 I’m currently learning **Frameworks**
+🌱 I’m currently learning **Frameworks**
 
-📝 I regularly write articles on [https://www.camduvar.net/](https://www.camduvar.net/)
+📝 I regularly write articles on [https://www.camduvar.net/{:target="\_blank"}](camduvar)
 
--💬 Ask me about **JavaScript, React, Node.js**
+💬 Ask me about **JavaScript, React, Node.js**
 
--📫 How to reach me **bahargumuser@gmail.com**
+📫 How to reach me **bahargumuser@gmail.com**
 
 </p>
 
