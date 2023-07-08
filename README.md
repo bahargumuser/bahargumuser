@@ -9,7 +9,7 @@
 
 💬 Ask me about **JavaScript, React, Node.js**
 
-📫 How to reach me **bahargumuser@gmail.com**s
+📫 How to reach me **bahargumuser@gmail.com**
 
 </div>
 
@@ -38,7 +38,8 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <p>
-<div align="center">
+<!-- <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahargumuser&show_icons=true&locale=en&layout=compact" alt="bahargumuser" />
 </p>
 </div>
+ -->
