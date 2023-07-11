@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bahar</h1>
-<h3 align="center">I have designed my life around the pursuit of new knowledge. Researching, discovering, and problem-solving come naturally to me. I enjoy coding and find happiness in continuously improving myself. If my growth has caught your interest, please don't hesitate to reach out to me.</h3>
+<h3 align="center">I have designed my life around the pursuit of new knowledge. Researching, discovering, and problem-solving come naturally to me. I enjoy coding and find happiness in continuously improving myself. If my growth has caught your interest, please don't hesitate to reach out to me!</h3>
 
 <div align="center">
 
