@@ -3,7 +3,7 @@
 
 <div align="center">
 
-🌱 I’m currently learning **Frameworks**
+🌱 I’m currently learning **Frameworks, OOP, SOLID**
 
 💬 Ask me about **JavaScript, React, Node.js**
 
