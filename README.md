@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">I have designed my life around the pursuit of new knowledge. Researching, discovering, and problem-solving come naturally to me. I enjoy coding and find happiness in continuously improving myself. If my growth has caught your interest, please don't hesitate to reach out to me!</h5>
+<h3 align="left">I have designed my life around the pursuit of new knowledge. Researching, discovering, and problem-solving come naturally to me. I enjoy coding and find happiness in continuously improving myself. If my growth has caught your interest, please don't hesitate to reach out to me!</h3>
 
 ###
 
