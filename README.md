@@ -2,7 +2,13 @@
 
 ###
 
-<h3 align="left">I have designed my life around the pursuit of new knowledge. Researching, discovering, and problem-solving come naturally to me. I enjoy coding and find happiness in continuously improving myself. If my growth has caught your interest, please don't hesitate to reach out to me!</h3>
+<h4 align="left">I have designed my life around the pursuit of new knowledge. Researching, discovering, and problem-solving come naturally to me. I enjoy coding and find happiness in continuously improving myself. If my growth has caught your interest, please don't hesitate to reach out to me!</h4>
+
+###
+
+<div align="left">
+  <img height="206" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQ0MjY5YmRsN2cwbzM5dHlvM3RheHZmZzl6aWxzZ2g3MDlqajVqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fTz2gJRh37GpDaiiyD/giphy.gif"  />
+</div>
 
 ###
 
