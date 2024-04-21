@@ -1,4 +1,4 @@
-<h1 align="left">Hi🦄, I'm Bahar</h1>
+<h1 align="left">Hi 🦄 I'm Bahar</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">My GitHub Statistics 🔮</h2>
+<h2 align="left">My Magics 🔮</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">My Tech Pack🌌</h2>
+<h2 align="left">My Wands✨ </h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="left">My Social Links🌎</h2>
+<h2 align="left">Stalk Me 🐈‍⬛</h2>
 
 ###
 
