@@ -4,14 +4,7 @@
 
 <h4 align="left">I have designed my life around the pursuit of new knowledge. Researching, discovering, and problem-solving come naturally to me. I enjoy coding and find happiness in continuously improving myself. If my growth has caught your interest, please don't hesitate to reach out to me!</h4>
 
-###
 
-<div align="left">
-  <img height="206" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWUxNDc5c3ZwOW40Zm1qYnBycTlkZnZxcXRrYnB1amNoejZkZ241ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3UcrvyVav0PLHujS/giphy.gif"  />
-</div>
-
-
-###
 ###
 
 <h2 align="left">My Wands✨ </h2>
@@ -50,7 +43,14 @@
 
 </div>
 
+###
 
+<div align="left">
+  <img height="206" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWUxNDc5c3ZwOW40Zm1qYnBycTlkZnZxcXRrYnB1amNoejZkZ241ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3UcrvyVav0PLHujS/giphy.gif"  />
+</div>
+
+
+###
 
 <h2 align="left">Stalk Me 🐈‍⬛</h2>
 
