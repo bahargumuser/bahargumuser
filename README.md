@@ -37,13 +37,6 @@
 
 ###
 
-<div align="left";">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bahargumuser&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-</div>
-
-###
-
 <div align="left">
   <img height="206" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWUxNDc5c3ZwOW40Zm1qYnBycTlkZnZxcXRrYnB1amNoejZkZ241ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3UcrvyVav0PLHujS/giphy.gif"  />
 </div>
