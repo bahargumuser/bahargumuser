@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">My Wands✨ </h2>
+<h2 align="left">My Skills  </h2>
 
 ###
 
@@ -33,18 +33,7 @@
 
 ###
 
-<h2 align="left">My Magics 🔮</h2>
-
-###
-
-<div align="left">
-  <img height="206" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWUxNDc5c3ZwOW40Zm1qYnBycTlkZnZxcXRrYnB1amNoejZkZ241ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3UcrvyVav0PLHujS/giphy.gif"  />
-</div>
-
-
-###
-
-<h2 align="left">Stalk Me 🐈‍⬛</h2>
+<h2 align="left">My Profiles</h2>
 
 ###
 
