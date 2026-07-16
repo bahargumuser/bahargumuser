@@ -1,10 +1,3 @@
-<h1 align="left">Hi, I'm Bahar 🦄 </h1>
-
-###
-
-<h4 align="left">Let's work together: Develop, Tech, Value!</h4>
-
-
-</div>
-
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=440&lines=Let's+Work+Together%3B+Develop%2C+Tech%2C+Value!" alt="Typing SVG" />
+</p>
